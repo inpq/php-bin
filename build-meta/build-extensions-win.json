@@ -23,6 +23,7 @@
     "phar",
     "session",
     "simplexml",
+    "soap",
     "sockets",
     "tokenizer",
     "xmlwriter",
