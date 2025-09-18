@@ -2,6 +2,7 @@
     "lib-base",
     "micro",
     "php",
+    "bzip2",
     "zlib",
     "openssl",
     "libssh2",
@@ -9,7 +10,9 @@
     "libxml2",
     "nghttp2",
     "curl",
-    "bzip2",
+    "libpng",
+    "onig",
+    "sqlite",
     "xz",
     "libzip"
 ]

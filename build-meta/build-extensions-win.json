@@ -5,6 +5,7 @@
     "zlib",
     "openssl",
     "curl",
+    "iconv",
     "xml",
     "dom",
     "fileinfo",
@@ -20,18 +21,12 @@
     "sqlite3",
     "pdo_sqlite",
     "phar",
+    "soap",
     "session",
     "simplexml",
-    "soap",
     "sockets",
     "tokenizer",
     "xmlwriter",
     "xmlreader",
-    "libxml",
-    "zip",
-    "zlib",
-    "exif",
-    "intl",
-    "redis",
-    "sodium"
+    "zip"
 ]

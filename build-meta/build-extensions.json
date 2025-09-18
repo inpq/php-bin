@@ -11,6 +11,7 @@
     "opcache",
     "openssl",
     "pdo",
+    "soap",
     "sqlite3",
     "pdo_sqlite",
     "phar",
