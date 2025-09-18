@@ -1,7 +1,7 @@
 [
     "zlib",
     "openssl",
-    "libiconv",
+    "libiconv-win",
     "libxml2",
     "curl",
     "libpng",
