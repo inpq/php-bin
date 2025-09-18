@@ -5,7 +5,6 @@
     "zlib",
     "openssl",
     "curl",
-    "iconv",
     "xml",
     "dom",
     "fileinfo",
@@ -28,14 +27,11 @@
     "tokenizer",
     "xmlwriter",
     "xmlreader",
-    "xmlwriter",
+    "libxml",
     "zip",
     "zlib",
     "exif",
     "intl",
-    "libxml",
     "redis",
-    "sodium",
-    "xml",
-    "xsl"
+    "sodium"
 ]
