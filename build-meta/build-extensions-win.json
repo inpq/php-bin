@@ -28,5 +28,14 @@
     "tokenizer",
     "xmlwriter",
     "xmlreader",
-    "zip"
+    "xmlwriter",
+    "zip",
+    "zlib",
+    "exif",
+    "intl",
+    "libxml",
+    "redis",
+    "sodium",
+    "xml",
+    "xsl"
 ]

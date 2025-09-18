@@ -1,1 +1,1 @@
-bcmath,curl,dom,libxml,mbstring,openssl,pdo,phar,session,simplexml,soap,xml,xmlreader,xmlwriter,zip,zlib
+bcmath,bz2,ctype,curl,dom,ftp,fileinfo,filter,gd,gettext,gmp,exif,iconv,intl,libxml,mbstring,mbregex,opcache,openssl,pdo,pdo_sqlite,phar,redis,session,simplexml,soap,sockets,sodium,sqlite3,tokenizer,xml,xmlreader,xmlwriter,xsl,zip,zlib
