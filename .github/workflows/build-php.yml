@@ -84,8 +84,8 @@ jobs:
         id: read-extensions
         shell: bash
         run: |
-          EXTENSIONS=$(php -r "echo trim(file_get_contents('php-extensions.txt'));")
-          EXT_HASH=$(php -r "echo md5(getenv('EXTENSIONS'));")
+          EXTENSIONS=$(php -r "echo implode(',', json_decode(file_get_contents('build-meta/build-extensions-win.json')));")
+          EXT_HASH=$(php -r "echo md5('$EXTENSIONS');")
           echo "PHP_EXTENSIONS=$EXTENSIONS" >> $GITHUB_ENV
           echo "PHP_EXT_HASH=$EXT_HASH" >> $GITHUB_ENV
 
